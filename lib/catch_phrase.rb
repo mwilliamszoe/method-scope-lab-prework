@@ -1,3 +1,3 @@
 def catch_phrase(phrase)
-  phrase = "It's-a me, Mario!\n"
+  "It's-a me, Mario!\n"
 end
